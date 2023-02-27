@@ -7,5 +7,3 @@ Created on Mon Feb 27 16:36:56 2023
 """
 
 print("Hello from - lucas")
-
-bonjour
