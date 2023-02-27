@@ -9,5 +9,3 @@ Created on Mon Feb 27 16:36:56 2023
 print("Hello from - lucas")
 
 print("Hello everyone it is Nathan")
-
-print("ntm")
