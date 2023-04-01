@@ -40,6 +40,7 @@ folium.Choropleth(
     geo_data=country_shapes,
     name="choropleth",
     
+    
     data=country_risk,
     columns=["Country", "Disaster Type"],
     key_on='feature.properties.name',
